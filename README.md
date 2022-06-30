@@ -2,7 +2,7 @@
 # Overview
 The project comprises of the Extraction, Transformation and Load process. The extracted movie data from Wikipedia data, Kaggle metadata, and the MovieLens rating data was cleaned, transformed, and merged using Pandas. 
 # Resources
-Dependencises:
+Dependencies:
 * Pandas
 * JSON
 * numpy
@@ -17,7 +17,7 @@ Languages:
 
 Software:
 * PostgreSQL
-* PgAdmin
+* pgAdmin
 * Jupyter Notebook
 
 Data Sources:
