@@ -11,8 +11,11 @@ Dependencises:
 * re
 * time
 
-Software:
+Languages:
 * Python
+* SQL
+
+Software:
 * PostgreSQL
 * PgAdmin
 * Jupyter Notebook
